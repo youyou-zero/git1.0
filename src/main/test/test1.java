@@ -5,6 +5,8 @@ public class test1 {
     public void test(){
         System.out.println("little cute");
         System.out.println("second:color");
+        System.out.println("海的女儿");
+
 
 
     }
